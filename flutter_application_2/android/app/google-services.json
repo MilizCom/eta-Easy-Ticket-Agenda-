@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948771486947",
+    "project_id": "easy-ticket-agenda",
+    "storage_bucket": "easy-ticket-agenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948771486947:android:5c59da20445c54943f19d6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8c5a6cfilvDdZ7oALjhM5nj5BNcmBqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
